@@ -1,5 +1,14 @@
  [
  {
+  "name": "Moto G 2014",
+    "brand": "Motorola",
+    "codename": "thea",
+    "afh_folder": "https://www.androidfilehost.com/?fid=817550096634768537",
+    "maintainer_name": "Rafa584",
+    "maintainer_xda_profile": "https://forum.xda-developers.com/member.php?u=8271238",
+    "xda_thread": "https://forum.xda-developers.com/"
+  },
+  { 
     "name": "Moto G 2014",
     "brand": "Motorola",
     "codename": "titan",
